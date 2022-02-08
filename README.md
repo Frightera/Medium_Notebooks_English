@@ -6,4 +6,4 @@ This repo only contains the codes that used in the articles.
 https://towardsdatascience.com/uncertainty-in-deep-learning-brief-introduction-1f9a5de3ae04
 
 ## Uncertainty in DL - Aleatoric Uncertainty
-- Will be added.
+https://towardsdatascience.com/uncertainty-in-deep-learning-aleatoric-uncertainty-and-maximum-likelihood-estimation-c7449ee13712
