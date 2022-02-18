@@ -7,3 +7,6 @@ https://towardsdatascience.com/uncertainty-in-deep-learning-brief-introduction-1
 
 ## Uncertainty in DL - Aleatoric Uncertainty
 https://towardsdatascience.com/uncertainty-in-deep-learning-aleatoric-uncertainty-and-maximum-likelihood-estimation-c7449ee13712
+
+## Uncertainty in DL - Epistemic Uncertainty
+https://towardsdatascience.com/uncertainty-in-deep-learning-epistemic-uncertainty-and-bayes-by-backprop-e6353eeadebb
