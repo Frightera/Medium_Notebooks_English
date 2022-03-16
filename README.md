@@ -10,3 +10,6 @@ https://towardsdatascience.com/uncertainty-in-deep-learning-aleatoric-uncertaint
 
 ## Uncertainty in DL - Epistemic Uncertainty
 https://towardsdatascience.com/uncertainty-in-deep-learning-epistemic-uncertainty-and-bayes-by-backprop-e6353eeadebb
+
+## Uncertainty In Deep Learning — Bayesian CNN | TensorFlow Probability
+https://towardsdatascience.com/uncertainty-in-deep-learning-bayesian-cnn-tensorflow-probability-758d7482bef6
